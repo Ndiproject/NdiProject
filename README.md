@@ -1,16 +1,36 @@
-### Hi there 👋
+# Nᴅɪ Pʀᴏᴊᴇᴄᴛ
+Sᴇʟᴀᴍᴀᴛ ᴅᴀᴛᴀɴɢ ᴅɪ ɢɪᴛʜᴜʙ sᴀʏᴀ 🙏 Jᴀɴɢᴀɴ ʟᴜᴘᴀ ᴊɪᴋᴀ ғᴏʀᴋ ᴀᴛᴀᴜ ᴄʟᴏɴᴇ ʀᴇᴘᴏ, ᴍᴏʜᴏɴ ʙᴇʀɪᴋᴀɴ ʙɪɴᴛᴀɴɢ ɴʏᴀ ʏᴀ ᴋᴀᴋᴀᴋ ᴅᴀɴ ᴀʙᴀɴɢ 🙏
 
-<!--
-**Ndiproject/NdiProject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 〠 Dᴇᴠᴇʟᴏᴘᴇʀ
+<p>
+<a href="https://t.me/gausahsokablunyet"> <img src="https://img.shields.io/badge/Telegram-Marshmellow-blue?&logo=telegram" alt="On Telegram" /> </a><br>
+<a href="https://t.me/friendzonesokin"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
+<a href="https://t.me/chFZsokin"> <img src="https://img.shields.io/badge/Update-Channel-blue?&logo=telegram" alt="Update Channel" /> </a><br>
+<a href="https://instagram.com/sijantuk6087" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a><br>
+</p>
 
-Here are some ideas to get you started:
+[![Profile views](https://gpvc.arturio.dev/Ndiproject)](https://github.com/Ndiproject)
+### Sᴛᴀᴛɪsᴛɪᴋ
+<p align="center"><a href="https://github.com/Ndiproject"><img src="https://github-readme-stats.vercel.app/api?username=Ndiproject&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/Ndiproject"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndiproject&theme=radical&layout=compact"></a></p> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+   <h3 align="left">Bahasa dan Code</h3>
+<p align="left"> <a href="https://www.github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ndiproject&" alt="Ndiproject
+
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Ndiproject)
+
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/Ndiproject?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSolo)
+
+</details>
