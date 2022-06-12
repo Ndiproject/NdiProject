@@ -6,7 +6,7 @@ Sᴇʟᴀᴍᴀᴛ ᴅᴀᴛᴀɴɢ ᴅɪ ɢɪᴛʜᴜʙ sᴀʏᴀ 🙏 Jᴀɴɢ
 <a href="https://t.me/gausahsokablunyet"> <img src="https://img.shields.io/badge/Telegram-Marshmellow-blue?&logo=telegram" alt="On Telegram" /> </a><br>
 <a href="https://t.me/friendzonesokin"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
 <a href="https://t.me/chFZsokin"> <img src="https://img.shields.io/badge/Update-Channel-blue?&logo=telegram" alt="Update Channel" /> </a><br>
-<a href="https://instagram.com/sijantuk6087" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a><br>
+<a href="https://wa.me/qr/Q55QERD4SUD2L1" target="green"><img src="https://img.shields.io/badge/WhatsApp-128C7E?style=flat&logo=WhatsApp" /></a><br>
 </p>
 
 [![Profile views](https://gpvc.arturio.dev/Ndiproject)](https://github.com/Ndiproject)
